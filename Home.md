@@ -10,6 +10,7 @@ Willkommen in meiner PARA-Wissensdatenbank.
 | [[1 Projects/Projects]] | Aktive Vorhaben mit konkretem Ziel | Website-Relaunch, Umzug |
 | [[2 Areas/Areas]] | Laufende Verantwortungsbereiche | Gesundheit, Finanzen |
 | [[3 Resources/Resources]] | Themen und Referenzwissen | Tech-Dokumentation |
+| -> | -> | [[PARA Methode]] |
 | [[4 Archives/Archives]] | Abgeschlossenes und Inaktives | Alte Projekte |
 
 ## Neue Notiz
